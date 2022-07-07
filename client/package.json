@@ -15,7 +15,7 @@
     "axios": "^0.18.0",
     "eventemitter3": "^3.1.0",
     "js-cookie": "^2.2.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "quasar-extras": "^2.0.4",
     "quasar-framework": "^0.17.0",
     "vue": "^2.5.17",
